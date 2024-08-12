@@ -1,0 +1,1 @@
+selenium==4.23.1  # latest version at the time of creation of this project
